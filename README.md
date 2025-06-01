@@ -10,6 +10,7 @@
 
 ## 🔧 Technologies
 - <img align="left" alt="Java" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/> **Java** - Proficient in Java; used for seam carving, credit card fraud detection, semantic similarity tree projects.
+- <img align="left" alt="Python" width="20px" src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/python/python-original.svg"/> **Python** - Proficient in Python; used in competitions, TensorFlow and ML applications, and university labs for data modeling. 
 - <img align="left" alt="NodeJS" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/> **NodeJS** - Extensively used in various projects for bots.
 - <img align="left" alt="CC" width="20px" src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/c/c-original.svg"/> **C** - Proficient in C; fluent in dynamic memory management; used for POSIX system calls and hash table module projects.
 - <img align="left" alt="CC" width="20px" src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/aarch64/aarch64-original.svg"/> **AArch64** - Proficient in AArch64; used for translations between C and Assembly, buffer overrun attack simulations, and compiler optimization projects.
